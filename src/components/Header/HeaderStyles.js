@@ -52,9 +52,10 @@ export const Div3 = styled.div`
 
 // Navigation Links
 export const NavLink = styled.a`
-  font-size: 2rem;
+  font-size: 2.5rem;
   line-height: 32px;
-  color: rgba(255, 255, 255, 0.75);
+  font-weight:700;
+  color: #50afb4;
   transition: 0.4s ease;
   &:hover {
     color: #fff;
