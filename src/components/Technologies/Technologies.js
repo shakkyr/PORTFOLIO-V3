@@ -17,13 +17,13 @@ const Technologies = () =>  (
         <DiJavascript1 size='3rem' />
         <DiCss3 size='3rem' />
         <DiHtml5 size='3rem' />
-        <DiPython size='3rem' />
+    
       </picture>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            React.js JavaScript HTML CSS3 Python
+            React.js JavaScript HTML CSS3
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -31,7 +31,6 @@ const Technologies = () =>  (
       <picture>
         <DiFirebase size='3rem' />
         <SiMongodb size='3rem' />
-        <SiFlask size='3rem' />
       </picture>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
