@@ -36,7 +36,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            Node.js Flask and MongoDB
+            Node.js and MongoDB
           </ListParagraph>
         </ListContainer>
       </ListItem>
