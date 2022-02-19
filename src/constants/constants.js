@@ -1,12 +1,21 @@
 export const projects = [
   {
+    title: 'The Movie Database',
+    description: "Our Team Project, a full comlpete Front-Back end porject rich with great futures. Redux, node-vibrant, scraper using pupputer, carousel, ... and many other futuers",
+      image: '/images/movie.png',
+      tags: ['Mongo', 'Express', 'React', 'Node'],
+    // demo: 'https://health-companion-shadi.herokuapp.com/',
+    code: 'https://github.com/Iyal-Khanjar/Frontend-Movies',
+    id: 0,
+  },
+  {
     title: 'Health Companion',
     description: "Using React, Node.js, Express & MongoDB I built a Full Stack MERN Application - from start to finish. The App is called Health Companion and it is a simple app that allows you track and manage your healt.",
       image: '/images/signUp.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     demo: 'https://health-companion-shadi.herokuapp.com/',
     code: 'https://github.com/shakkyr/Health-App-with-MERN',
-    id: 0,
+    id: 1,
   },
   {
     title: 'E-Commerce',
@@ -15,7 +24,7 @@ export const projects = [
     tags: ['Mongo', 'Express', 'React', 'Node'],
     demo: 'https://online-shop-shadi.herokuapp.com/',
     code: 'https://github.com/shakkyr/eShop-nodejs',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Company Manager',
@@ -24,7 +33,7 @@ export const projects = [
       tags: ['React', 'MockAPI'],
     demo: 'https://company-manager.netlify.app',
     code: 'https://github.com/shakkyr/Company-react',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Bank App',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['Mongo', 'Express', 'React', 'Node'],
     demo: 'https://bank-monggo-nodejs.herokuapp.com/',
     code: 'https://github.com/shakkyr/bank-nodejs-mongodb',
-    id: 3,
+    id: 4,
   },
   {
     title: 'ShhhChat',
@@ -42,7 +51,7 @@ export const projects = [
     tags: ['React', 'CSS', 'mockAPI'],
     demo: 'https://shhhchat-mid-tasak.netlify.app/',
     code: 'https://github.com/shakkyr/ShhhChat',
-    id: 4,
+    id: 5,
   },
   {
     title: 'Amazone clone',
@@ -51,7 +60,7 @@ export const projects = [
     tags: ['CSS', 'HTML'],
     demo: 'https://shakky-amazone-clone.netlify.app/',
     code: 'https://github.com/shakkyr/amazon-clone',
-    id: 5,
+    id: 6,
   },
   {
     title: 'minecraft',
@@ -60,7 +69,7 @@ export const projects = [
     tags: ['HTML', 'CSS', 'JAVASCRIPT'],
     demo: 'https://shakkymine-cr2d.netlify.app/',
     code: 'https://github.com/shakkyr/minecraft',
-    id: 6,
+    id: 7,
   },
   {
     title: 'covid-19',
@@ -69,7 +78,7 @@ export const projects = [
     tags: ['HTML', 'CSS', 'JAVASCRIPT'],
     demo: 'https://covid19-shakky.netlify.app/',
     code: 'https://github.com/shakkyr/minecraft',
-    id: 7,
+    id: 8,
   },
 ];
 
