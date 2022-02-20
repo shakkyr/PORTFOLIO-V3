@@ -4,7 +4,7 @@ export const projects = [
     description: "Our Team Project, a full comlpete Front-Back end porject rich with great futures. Redux, node-vibrant, scraper using pupputer, carousel, ... and many other futuers",
       image: '/images/movie.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    // demo: 'https://health-companion-shadi.herokuapp.com/',
+    demo: 'https://best-movies-ever.herokuapp.com/',
     code: 'https://github.com/Iyal-Khanjar/Frontend-Movies',
     id: 0,
   },
